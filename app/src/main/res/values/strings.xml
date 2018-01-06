@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista De La Compra</string>
+    <string name="title_home">Lista</string>
+    <string name="title_dashboard">Añadir alimento</string>
+</resources>
